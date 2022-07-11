@@ -1,0 +1,8 @@
+C:\Users\elman\source\repos\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.exe.config
+C:\Users\elman\source\repos\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.exe
+C:\Users\elman\source\repos\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.pdb
+C:\Users\elman\source\repos\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.csproj.AssemblyReference.cache
+C:\Users\elman\source\repos\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.csproj.SuggestedBindingRedirects.cache
+C:\Users\elman\source\repos\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.csproj.CoreCompileInputs.cache
+C:\Users\elman\source\repos\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.exe
+C:\Users\elman\source\repos\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.pdb
